@@ -3,4 +3,6 @@
 
 ###Script Descriptions:
 
-	0-  Switches the current user to betty 
+	0- su betty Switches the current user to betty
+	1- whoami Prints name of current user
+	2- 
