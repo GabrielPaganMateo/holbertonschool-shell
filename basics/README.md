@@ -1,4 +1,8 @@
-Script Descriptions:
+#Holberton School Shell Basics Project
+##Stored tasks and work done as part of the "Shell Basics Project"
+###Inlcudes scripts with basic commands for shell use
+
+####Script Descriptions:
 	0. pwd Script that printed the absolute path name of the current working directory.
 	1. ls Display the contents list of your current directory.
 	2. cd ~ Changes the working directory to the users home directory.
