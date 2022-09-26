@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R --ignore="-" ugo+x permissions
+chmod -R --ignore="*-" ugo+x permissions
