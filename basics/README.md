@@ -1,5 +1,7 @@
 #Holberton School Shell Basics Project
+
 ##Stored tasks and work done as part of the "Shell Basics Project"
+
 ###Includes scripts with basic commands for shell use
 
 ####Script Descriptions:
