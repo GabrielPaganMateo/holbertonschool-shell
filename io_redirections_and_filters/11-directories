@@ -1,2 +1,2 @@
-#!/bin/basc 
+#!/bin/bash 
 ls | wc -la
