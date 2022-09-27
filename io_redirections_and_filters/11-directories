@@ -1,0 +1,2 @@
+#!/bin/basc 
+ls | wc -la
