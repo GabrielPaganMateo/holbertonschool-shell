@@ -1,8 +1,10 @@
-#Holberton School Shell Init files Variables and Expansions
+# Holberton School Shell Init files Variables and Expansions
 
-##This directory was made to store the tasks and work done as part of the "Shell, init files, variables and expansions"
+## This directory was made to store the tasks and work done as part of the "Shell, init files, variables and expansions"
 
-###Includes scripts with init files, variables and expansions commands within the shell
+### Includes scripts with init files, variables and expansions commands within the shell
 
-####Script Descriptions:
+#### Script Descriptions:
+
+1.
 
