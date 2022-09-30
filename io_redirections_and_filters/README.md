@@ -1,4 +1,4 @@
-# Holberton School Shell I/O Redirections & Filters Project
+# Holberton School Shell Project
 
 ### This directory was made to store the tasks and work done as part of the "Shell I/O Redirections & Filters Project"
 
