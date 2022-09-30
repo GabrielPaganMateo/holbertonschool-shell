@@ -16,7 +16,7 @@
 7.export BEST=School {Create a new global variable
 8.echo $((128+$TRUEKNOWLEDGE)) {Prints the result of the addition of 128 with value stored in variable
 9.echo $(($POWER/$DIVIDE)) {Script that prints the result of POWER divided by DIVIDE followed by a new line
-10.echo $((BREATH**LOVE)) {Script that displays the result of BREATH to the power LOVE
+10.echo $((BREATH*\*LOVE)) {Script that displays the result of BREATH to the power LOVE
 11.echo $((2#$BINARY)) {Converts a number from base 2 to base 10
 12.echo {a..z}{a..z} | tr ' ' '\n' | grep -v oo {Script that prints all possible combinations of two letters
 13.printf "%.2f\n" $NUM {Print a number with two decimal places
