@@ -1,4 +1,4 @@
-# Holberton School Shell Basics Project
+# Holberton School Shell Project
 
 ## Stored tasks and work done as part of the "Shell Basics Project"
 
