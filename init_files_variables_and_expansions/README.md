@@ -1,4 +1,4 @@
-# Holberton School Shell Init files Variables and Expansions
+# Holberton School Shell Project
 
 ## This directory was made to store the tasks and work done as part of the "Shell, init files, variables and expansions"
 
@@ -24,5 +24,3 @@
 15. tr 'a-zA-Z' 'n-za-mN-ZA-N' {encodes and decodes text using the rot13 encryption
 16. perl -ne 'print if (++$x)%2' {script that prints every other line from the input, starting with the first line
 17. echo $(printf %o $(($((5#$(echo $WATER | tr 'water' '01234'))) + $((5#$(echo $STIR | tr 'stir.' '01234'))))) | tr '01234567' 'bestchol') {adds the two numbers stored in the environment variables WATER and STIR and prints the result
-
-
