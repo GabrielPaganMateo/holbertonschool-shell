@@ -1,4 +1,4 @@
-# Holberton School Shell Permissions Project
+# Holberton School Shell Project
 
 ## This directory was made to store the tasks and work done as part of the "Shell Permissions Project"
 
